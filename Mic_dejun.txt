@@ -1,0 +1,23 @@
+Nume aliment: Mar
+Valoare energetica: 23
+Grasimi: 23
+Din care acizi grasi saturati: 23
+Glucide: 32
+Zaharuri:  23
+Fibre: 23
+Proteine: 3
+Sare: 32
+Cantitate: 23
+***************************************
+Nume aliment: lapte
+Valoare energetica: 200
+Grasimi: 12
+Din care acizi grasi saturati: 4
+Glucide: 7
+Zaharuri:  8
+Fibre: 2
+Proteine: 10
+Sare: 1
+Cantitate: 200
+***************************************
+

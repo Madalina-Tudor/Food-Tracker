@@ -1,0 +1,10 @@
+Nume: DMD
+Varsta: 10
+Inaltime: 180.000000
+Greutate: 60.000000
+Scop: Mentinere
+Metabolism: Normal
+Activitate Fizica: Usoara
+Greutate Dorita: 1000
+Sex: Male
+*********************************************

@@ -1,0 +1,11 @@
+Nume alimet: lapte
+Valoare energetica: 12
+Grasimi: 1
+Din care acizi grasi saturati: 4
+Glucide: 6
+Zaharuri:  5
+Fibre: 4
+Proteine: 6
+Sare: 4
+Cantitate: 1***************************************
+

@@ -1,0 +1,12 @@
+Nume aliment: carne
+Valoare energetica: 255
+Grasimi: 21
+Din care acizi grasi saturati: 12
+Glucide: 65
+Zaharuri:  12
+Fibre: 25
+Proteine: 25
+Sare: 2
+Cantitate: 250
+***************************************
+

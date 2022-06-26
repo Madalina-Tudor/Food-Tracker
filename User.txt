@@ -1,0 +1,10 @@
+Nume: d
+Varsta: 25
+Inaltime: 4
+Greutate: 66
+Scop: Scadere
+Metabolism: Normal
+Tip activitate fizica: Usoara
+Greutatea Dorita: 67
+Sex: Female
+***************************************
